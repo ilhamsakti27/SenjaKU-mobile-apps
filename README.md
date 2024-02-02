@@ -32,7 +32,7 @@ SenjaKU is a digital banking application for seniors. The application is designe
 | Muhammad Ridho Nurul Ihsan |  |
 
 ### Project Start and End Dates
-December 18, 2023 - January 25, 2023
+December 18, 2023 - January 25, 2024
 
 # Design
 ### System Architecture
