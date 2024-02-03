@@ -37,6 +37,14 @@ December 18, 2023 - January 25, 2024
 
 # Design
 ### System Architecture
+**A. Flowchart**  
+Berikut ada flowchart dari aplikasi SenjaKU.   
+<img width="300" src="./images/flowchart-SenjaKU.png" alt="SenjaKU Logo" />
+
+**B. Tech Stack**  
+SenjaKU dirancang menggunakan low-code outsystem.  
+<img width="100" src="./images/outsystems-logo.svg" alt="outsystem Logo" />
+
 ### User Interface Design
 In designing SenjaKU we used Figma software. The design can be seen in the [following link](https://www.figma.com/file/1QuCD60hZo5SgS3ZoSyd2f/SenjaKU-Mandiri?type=design&node-id=516%3A282&mode=design&t=kKkUET3fuHoGQZAP-1).
 
