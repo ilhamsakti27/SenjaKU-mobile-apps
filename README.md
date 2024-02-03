@@ -9,9 +9,9 @@ SenjaKU
 
 ### Description
 SenjaKU is a digital banking application for elderly human. The application is designed to be as simple as possible to be more elderly human-*friendly* so that seniors are expected to be able and confident in accessing banking services easily, anywhere, and anytime according to their needs. This feature consists of:
-- Transfer (Transfer dan QRIS)
-- Tagihan (BPJS, Listrik, dan PDAM)
-- Top Up (EWallet dan Pulsa)
+- Transfer (Transfer and QRIS)
+- Tagihan (BPJS, Listrik, and PDAM)
+- Top Up (EWallet and Pulsa)
 - Biometrics (Fingerprint)
 
 ### Project Objectives
