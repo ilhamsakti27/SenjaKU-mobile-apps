@@ -76,6 +76,7 @@ You can install the SenjaKU application on your *smartphone* with the following 
   ![barcode install](./images/barcode_install_app.png) 
 2. Install according to your *smartphone* operating system type.
 
+Other ways to access the app is by visiting the [following page](https://personal-lpxm6mj6.outsystemscloud.com/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/TagihanSenjakuApp/Beranda?_ts=638427277775339378) or download apk in this respository.
 
 # Usage
 Due to the digital bank application seniors registration is only done at the bank directly, so the use case in this application is only one user registered.  
